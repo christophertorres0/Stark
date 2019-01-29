@@ -50,13 +50,13 @@ function removeColor(el){
 function showtrophy(el){
 
 
-	document.getElementById('bye').src = "images/1trophy.png";
+	document.getElementById('bye').src = "lombardi_trophy.png";
 
 
-	document.getElementById('hey').src = "images/1trophy.png";
+	document.getElementById('hey').src = "lombardi_trophy.png";
 
 
-	document.getElementById('11trophy').src = "images/1trophy.png";
+	document.getElementById('11trophy').src = "lombardi_trophy.png";
 
 
 }
